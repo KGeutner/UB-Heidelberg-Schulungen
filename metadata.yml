@@ -1,0 +1,28 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: "\t EndNote 21 für Einsteiger / Konzeption: Joscha Stadler ; Regie: Martina Büsse-Voss ; Schnitt: Gustavo Campedelli, Hannah Grau ; Bildnachweis: UB Heidelberg ; Musiknachweis: music by Kyrylo Momot from Pixa bay"
+description: ''
+license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+id: >-
+  https://github.com/KGeutner/UB-Heidelberg-Schulungen/blob/17fb58f534003ea5704823f8b622fbb8221d139e/EndNote_21_f%C3%BCr_Einsteiger.md
+creator:
+  - givenName: Joscha
+    familyName: Stadler
+    id: http://d-nb.info/gnd/1247641139
+    type: Person
+    affiliation:
+      name: Universität Heidelberg
+      id: https://ror.org/038t36y30
+      type: Organization
+keywords:
+  - Literaturverwaltung <Programm>
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/video
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-12-23'
